@@ -1,1 +1,1 @@
-# https-GabijaSvedkauskaite.github.io-clock
+# JavaScript Analog Clock
